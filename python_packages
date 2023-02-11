@@ -1,0 +1,5 @@
+https://python-packaging.readthedocs.io/en/latest/index.html
+
+## Command line tools
+
+Use console_scripts in setup.py
